@@ -1,4 +1,4 @@
-### Hi, I'm Patrick, I'm a software engineer. 👋
+### Hi, I'm Patrick, I'm a Software Engineer. 👋
 
 <!--
 **PatrickZurita/PatrickZurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
